@@ -2,7 +2,7 @@
   "workflow": {
     "unique_name": "definition_workflow_015NVQEMD5PMP52U2MgLEhB1vwLBgbE1K5U",
     "name": "ruslanAtomic",
-    "title": "ruslanAtomic",
+    "title": "Updated Title",
     "type": "generic.workflow",
     "base_type": "workflow",
     "variables": null,

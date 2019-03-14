@@ -1,5 +1,5 @@
 {
-  "workflow4": {
+  "workflow": {
     "unique_name": "definition_workflow_015NVQEMD5PMP52U2MgLEhB1vwLBgbE1K5U",
     "name": "ruslanAtomic",
     "title": "Updated Title",
@@ -23,19 +23,6 @@
     },
     "object_type": "definition_workflow",
     "actions": [
-      {
-        "unique_name": "definition_activity_015NVQM9N7GVC40MXgx73BljwIEt2VejQYa",
-        "name": "Sleep",
-        "title": "Sleep",
-        "type": "core.sleep",
-        "base_type": "activity",
-        "properties": {
-          "continue_on_failure": false,
-          "display_name": "Sleep",
-          "sleep_interval": 3
-        },
-        "object_type": "definition_activity"
-      }
     ],
     "categories": [
       "category_1BMfMXSnJMyt5Ihqi7rWJr5N8cf"

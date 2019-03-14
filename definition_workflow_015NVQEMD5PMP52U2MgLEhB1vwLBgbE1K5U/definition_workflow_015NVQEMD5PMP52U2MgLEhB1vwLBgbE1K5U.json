@@ -31,7 +31,7 @@
         "base_type": "activity",
         "properties": {
           "continue_on_failure": false,
-          "display_name": "Sleep",
+          "display_name": "Sleep Activity",
           "sleep_interval": 10
         },
         "object_type": "definition_activity"
